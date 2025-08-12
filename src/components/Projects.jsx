@@ -1,15 +1,15 @@
 import React from "react";
 import { useTheme } from '../context/ThemeContext'
-import employeeMSImage from "../assets/employee-ms.png";
+import employeeMSImage from "../assets/portfolio.png";
 import bookMSImage from "../assets/admin-dashboard.png";
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
-    technologies: "MERN Stack",
+    name: "Portfolio",
+    technologies: "React.js",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/Dheerajjaiswal63071/my-portfolio",
   },
   {
     id: 2,
