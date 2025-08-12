@@ -55,7 +55,7 @@ const Footer = () => {
             <a href="#" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-300 hover:text-white'} transition-colors duration-300`}>
               <FaLinkedin />
             </a>
-            <a href="#" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-300 hover:text-white'} transition-colors duration-300`}>
+            <a href="https://github.com/Dheerajjaiswal63071" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-300 hover:text-white'} transition-colors duration-300`}>
               <FaGithub />
             </a>
           </div>
